@@ -1,0 +1,2 @@
+source ~/.dotfiles/zsh/env.zsh
+source ~/.dotfiles/zsh/aliases.zsh
